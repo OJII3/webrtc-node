@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "alwaysStrict": true,
+    "noEmit": true,
+    "module": "NodeNext",
+    "strict": true,
+    "target": "ES6",
+    "sourceMap": true
+  }
+}
